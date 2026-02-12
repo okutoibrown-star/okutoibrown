@@ -7,3 +7,6 @@
 -GIT AND GITHUB
 -PYTHONM. MACHINE LEARNING
 ## Current projects
+
+## How to reach me
+okutoibrown@gmail.com
