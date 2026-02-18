@@ -1,5 +1,5 @@
 # heading
-#$my learning goals
+# My learning goals
 ### This semester
 Expectation or this *semester* include but not **limited** to ***machine learning***
 (github.com/okutoibrown-star/okutoibrown)[https;//www.google.com
