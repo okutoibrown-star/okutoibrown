@@ -23,8 +23,8 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
  |git hub|hosting and sharing projects|
 
     ^^Task list**
-      -[x]  create repository
-      -[x]  introductioon to markdown
-      -[]  python
-      -[]  machine learning
+      - [x]  create repository
+      - [x]  introductioon to markdown
+      - []  python
+      - []  machine learning
  
