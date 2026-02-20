@@ -5,11 +5,11 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
 (github.com/okutoibrown-star/okutoibrown)[https;//www.google.com]
 
 
-  #Targets 
-    -learn python
-    -improve in coding
-    -markdown
-    -monetize AI
+  # **targets** 
+    - learn python
+    - improve in coding
+    - markdown
+    - monetize AI
 -umderstand machine learning
    ##list of tasks
     1.check your status
