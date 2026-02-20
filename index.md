@@ -10,8 +10,9 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
     - improve in coding
     - markdown
     - monetize AI
--umderstand machine learning
-   ##list of tasks
+    -umderstand machine learning
+    
+   ##**List of tasks**
     1.check your status
     2.stage your changes
     3.commmit your changes
