@@ -12,10 +12,10 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
     - monetize AI
     -umderstand machine learning
     
-   ##**List of tasks**
-    1.check your status
-    2.stage your changes
-    3.commmit your changes
+   ## **List of tasks**
+    1. check your status
+    2. stage your changes
+    3. commmit your changes
  |tool|purpose|
  |---|--|
  |markdown|formatting plain text|
