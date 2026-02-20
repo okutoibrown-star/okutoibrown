@@ -24,8 +24,8 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
 
     ## **Task list**
     
-      - [x] create repository
+      -[x] create repository
       - [x] introductioon to markdown
-      - [] python
+       -[] python
       - []  machine learning
  
