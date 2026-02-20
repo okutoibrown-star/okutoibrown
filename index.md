@@ -22,7 +22,8 @@ Expectation or this *semester* include but not **limited** to ***machine learnin
  |git|version control and saving mode|
  |git hub|hosting and sharing projects|
 
-    ##**Task list**
+    ## **Task list**
+    
       - [x]  create repository
       - [x]  introductioon to markdown
       - []  python
