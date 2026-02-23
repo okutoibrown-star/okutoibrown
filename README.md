@@ -13,9 +13,11 @@
       -GIT 
       -GITHUB
       -PYTHON
-     -MACHINE LEARNING
+      -MACHINE LEARNING
 ## Current projects
+      -MARKDOWN
+      -vs code
 
 ## How to reach me
--okutoibrown@gmail.com
+(htpps://github.co./okutoibrown-star)
 -
