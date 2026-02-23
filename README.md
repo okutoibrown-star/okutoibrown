@@ -19,5 +19,5 @@
       -vs code
 
 ## How to reach me
-(htpps://github.co./okutoibrown-star)
+(htpps://github.com/okutoibrown-star)
 -
