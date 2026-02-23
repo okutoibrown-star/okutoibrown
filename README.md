@@ -12,8 +12,8 @@
 ## SKILLS I'M BUILDING
       -GIT 
       -GITHUB
-   -PYTHONM
-   -MACHINE LEARNING
+      -PYTHON
+     -MACHINE LEARNING
 ## Current projects
 
 ## How to reach me
