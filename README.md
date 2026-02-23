@@ -5,8 +5,10 @@
 -I'm looking to collaborte on biginer friendly opem source projects
 ## SKILLS I'M BUILDING
 -GIT AND GITHUB
--PYTHONM. MACHINE LEARNING
+   -PYTHONM
+   -MACHINE LEARNING
 ## Current projects
 
 ## How to reach me
-okutoibrown@gmail.com
+-okutoibrown@gmail.com
+-
